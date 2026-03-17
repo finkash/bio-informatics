@@ -1,0 +1,33 @@
+Predicting Hypertension...
+
+Accuracy of Logistic Regression on the test set: 74.01%
+Accuracy of Random Forest on the test set: 71.90%
+Accuracy of SVC on the test set: 74.20%
+Accuracy of Neural Network on the test set: 74.40%
+
+
+
+Predicting Heart Disease...
+
+Accuracy of Logistic Regression on the test set: 91.71%
+Accuracy of Random Forest on the test set: 90.47%
+Accuracy of SVC on the test set: 91.83%
+Accuracy of Neural Network on the test set: 91.88%
+
+
+
+Predicting Stroke...
+
+Accuracy of Logistic Regression on the test set: 96.48%
+Accuracy of Random Forest on the test set: 95.75%
+Accuracy of SVC on the test set: 96.48%
+Accuracy of Neural Network on the test set: 96.48%
+
+
+
+Predicting Diabetes...
+
+Accuracy of Logistic Regression on the test set: 87.06%
+Accuracy of Random Forest on the test set: 85.53%
+Accuracy of SVC on the test set: 87.03%
+Accuracy of Neural Network on the test set: 87.35%

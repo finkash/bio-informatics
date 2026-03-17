@@ -1,0 +1,62 @@
+Mutual information for Hypertension.
+                   Feature  Mutual Information
+0                      Age            0.038801
+10  Resting Blood Pressure            0.038502
+5                      BMI            0.035861
+2                 Diabetes            0.033387
+9              Cholesterol            0.026811
+7        Physical Activity            0.026500
+1                      Sex            0.012011
+3                  Smoking            0.004730
+4            Heart Disease            0.002263
+8      Fasting Blood Sugar            0.001281
+6                   Stroke            0.000000
+
+Mutual information for Heart Disease.
+                   Feature  Mutual Information
+11         Chest Pain Type            0.083177
+9      Fasting Blood Sugar            0.071796
+10            Hypertension            0.071451
+13  Resting Blood Pressure            0.060537
+12             Cholesterol            0.058517
+4                  Smoking            0.039215
+1                      Sex            0.037943
+8        Physical Activity            0.037171
+2      High Blood Pressure            0.035076
+0                      Age            0.034359
+5         High Cholesterol            0.030204
+3                 Diabetes            0.017493
+7                   Stroke            0.013383
+6                      BMI            0.007287
+
+Mutual information for Stroke.
+                   Feature  Mutual Information
+10            Hypertension            0.075223
+9      Fasting Blood Sugar            0.074301
+12  Resting Blood Pressure            0.062354
+11             Cholesterol            0.060098
+4                  Smoking            0.040493
+8        Physical Activity            0.039205
+1                      Sex            0.038862
+2      High Blood Pressure            0.023694
+5         High Cholesterol            0.020324
+6            Heart Disease            0.012985
+0                      Age            0.012091
+3                 Diabetes            0.011046
+7                      BMI            0.004436
+
+Mutual information for Diabetes.
+                   Feature  Mutual Information
+3                  Smoking            0.056296
+12  Resting Blood Pressure            0.055896
+10            Hypertension            0.054236
+11             Cholesterol            0.052532
+2      High Blood Pressure            0.052061
+8        Physical Activity            0.050851
+9      Fasting Blood Sugar            0.046111
+4         High Cholesterol            0.037557
+6                      BMI            0.036848
+1                      Sex            0.028086
+0                      Age            0.025220
+5            Heart Disease            0.015069
+7                   Stroke            0.004918

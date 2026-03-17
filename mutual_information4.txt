@@ -1,0 +1,53 @@
+Mutual information for Hypertension.
+                Feature  Mutual Information
+0                   Age            0.076111
+4      High Cholesterol            0.074496
+9   Fasting Blood Sugar            0.070804
+2              Diabetes            0.064733
+3               Smoking            0.053526
+8     Physical Activity            0.052989
+10      Chest Pain Type            0.050610
+6                   BMI            0.030664
+1                   Sex            0.023358
+5         Heart Disease            0.021102
+7                Stroke            0.008118
+
+Mutual information for Heart Disease.
+                Feature  Mutual Information
+10      Chest Pain Type            0.083462
+9   Fasting Blood Sugar            0.071734
+2          Hypertension            0.041849
+4               Smoking            0.038706
+1                   Sex            0.037447
+8     Physical Activity            0.036785
+0                   Age            0.033951
+5      High Cholesterol            0.027101
+3              Diabetes            0.017372
+7                Stroke            0.012593
+6                   BMI            0.007821
+
+Mutual information for Stroke.
+               Feature  Mutual Information
+9  Fasting Blood Sugar            0.075037
+4              Smoking            0.040537
+8    Physical Activity            0.039841
+1                  Sex            0.039655
+2         Hypertension            0.033732
+5     High Cholesterol            0.017607
+6        Heart Disease            0.012526
+0                  Age            0.012306
+3             Diabetes            0.010286
+7                  BMI            0.005242
+
+Mutual information for Diabetes.
+               Feature  Mutual Information
+3              Smoking            0.055653
+2         Hypertension            0.054665
+8    Physical Activity            0.049404
+9  Fasting Blood Sugar            0.046001
+4     High Cholesterol            0.041131
+6                  BMI            0.036363
+1                  Sex            0.028969
+0                  Age            0.024357
+5        Heart Disease            0.014658
+7               Stroke            0.005696

@@ -1,0 +1,42 @@
+,heart_failure_clinical_records_dataset.csv,diabetes_data.csv,train_strokes.csv,processed_cleveland_data.csv,processed_hungarian_data.csv,processed_switzerland_data.csv,processed_va_data.csv,MGE303_Term Project_Classification_Data (Disease).csv
+Size of dataset,299,70692,43401,302,293,122,199,21614
+Age,x,x,x,x,x,x,x,x
+Sex,x,x,x,x,x,x,x,x
+Chest Pain Type,,,,x,x,x,x,
+Systolic Blood Pressure,,,,,,,,x
+Diastolic Blood Pressure,,,,,,,,x
+Resting Blood Pressure,,,,x,x,x,x,
+Cholesterol,,x,,x,x,x,x,x
+Fasting Blood Sugar,,,x,x,x,x,x,x
+Resting ECG,,,,x,x,x,x,
+Maximum Heart Rate Achieved,,,,x,x,x,x,
+Exercise Induced Angina,,,,x,x,x,x,
+Oldpeak,,,,x,x,x,x,
+Heart Disease,,x,x,x,x,x,x,x
+Hypertension,x,x,x,,,,,x
+Ever Married,,,x,,,,,
+Work Type,,,x,,,,,
+Residence Type,,,x,,,,,
+Body Mass Index,,x,x,,,,,
+Had a Stroke,,x,x,,,,,x
+Anaemia,x,,,,,,,
+CPK Enzyme Level,x,,,,,,,
+Diabetes,x,x,,,,,,x
+Blood Ejection Fraction,x,,,,,,,
+Platelets,x,,,,,,,
+Serum Creatinine,x,,,,,,,
+Serum Sodium,x,,,,,,,
+Smoker,x,,x,,,,,x
+PhysActivity        ,,x,,,,,,x
+Fruits,,x,,,,,,
+Veggies,,x,,,,,,
+HvyAlcoholConsump   ,,x,,,,,,
+GenHlth,,x,,,,,,
+MentHlth,,x,,,,,,
+PhysHlth,,x,,,,,,
+DiffWalk,,x,,,,,,
+Waist Circumference,,,,,,,,x
+SGOT ASL,,,,,,,,x
+SGPT ALT,,,,,,,,x
+GAMMA GTP,,,,,,,,x
+Hemoglobin,,,,,,,,x

@@ -1,0 +1,7 @@
+output = "Hypertension"
+features = [output, "Age", "BMI", "Smoking", "Sex", "High Cholesterol"]
+
+Accuracy of Logistic Regression on the test set: 72.28%
+Accuracy of Random Forest on the test set: 72.46%
+Accuracy of SVC on the test set: 73.30%
+Accuracy of Neural Network on the test set: 73.62%
